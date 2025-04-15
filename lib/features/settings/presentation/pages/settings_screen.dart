@@ -123,10 +123,10 @@ class SettingsScreen extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    "Md. Shahin Bashar",
+                    "John Doe",
                     style: titleStyle,
                   ),
-                  Text("Associate Software Engineer"),
+                  Text("Flutter developer"),
                 ],
               ),
             ],
